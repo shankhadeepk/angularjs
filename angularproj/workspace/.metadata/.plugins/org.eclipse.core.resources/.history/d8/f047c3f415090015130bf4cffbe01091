@@ -1,0 +1,21 @@
+package org.cts.sample;
+
+import java.io.Serializable;
+import java.util.List;
+
+
+public class ProductWrapper implements Serializable{
+	
+	private List<Product> listOfProducts;
+
+	public List<Product> getListOfProducts() {
+		return listOfProducts;
+	}
+
+	public void setListOfProducts(List<Product> listOfProducts) {
+		this.listOfProducts = listOfProducts;
+	}
+	
+	
+
+}

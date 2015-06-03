@@ -1,0 +1,27 @@
+package org.cts.sample;
+
+import java.io.Serializable;
+import java.util.List;
+
+import org.codehaus.jackson.map.annotate.JsonDeserialize;
+
+
+public class ProductWrapper implements Serializable{
+	
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = -1327880936860037030L;
+	private List<Product> listOfProducts;
+
+	public List<Product> getListOfProducts() {
+		return listOfProducts;
+	}
+
+	public void setListOfProducts(List<Product> listOfProducts) {
+		this.listOfProducts = listOfProducts;
+	}
+	
+	
+
+}

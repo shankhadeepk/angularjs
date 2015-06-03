@@ -1,0 +1,666 @@
+2015-06-02 12:49:36,493 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: restfulservice:angularview:0.0.1-SNAPSHOT @ /home/cts1/Documents/shan/angularproj/workspace/angularview/pom.xml.
+2015-06-02 12:49:38,026 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.12.4/maven-surefire-plugin-2.12.4.pom
+2015-06-02 12:49:38,616 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.12.4/maven-surefire-plugin-2.12.4.pom
+2015-06-02 12:49:38,932 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire/2.12.4/surefire-2.12.4.pom
+2015-06-02 12:49:39,499 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire/2.12.4/surefire-2.12.4.pom
+2015-06-02 12:49:39,798 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-war-plugin/2.2/maven-war-plugin-2.2.pom
+2015-06-02 12:49:40,395 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-war-plugin/2.2/maven-war-plugin-2.2.pom
+2015-06-02 12:49:40,834 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-archiver/2.5/maven-archiver-2.5.pom
+2015-06-02 12:49:41,399 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-archiver/2.5/maven-archiver-2.5.pom
+2015-06-02 12:49:41,744 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/2.1/plexus-archiver-2.1.pom
+2015-06-02 12:49:42,304 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/2.1/plexus-archiver-2.1.pom
+2015-06-02 12:49:42,599 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/2.0.2/plexus-io-2.0.2.pom
+2015-06-02 12:49:43,158 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/2.0.2/plexus-io-2.0.2.pom
+2015-06-02 12:49:43,451 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-components/1.1.19/plexus-components-1.1.19.pom
+2015-06-02 12:49:44,011 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-components/1.1.19/plexus-components-1.1.19.pom
+2015-06-02 12:49:44,316 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/3.0.1/plexus-3.0.1.pom
+2015-06-02 12:49:45,200 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/3.0.1/plexus-3.0.1.pom
+2015-06-02 12:49:45,501 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.15/plexus-interpolation-1.15.pom
+2015-06-02 12:49:46,076 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.15/plexus-interpolation-1.15.pom
+2015-06-02 12:49:46,372 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream/1.3.1/xstream-1.3.1.pom
+2015-06-02 12:49:46,945 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream/1.3.1/xstream-1.3.1.pom
+2015-06-02 12:49:47,237 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream-parent/1.3.1/xstream-parent-1.3.1.pom
+2015-06-02 12:49:47,814 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream-parent/1.3.1/xstream-parent-1.3.1.pom
+2015-06-02 12:49:48,162 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/xpp3/xpp3_min/1.1.4c/xpp3_min-1.1.4c.pom
+2015-06-02 12:49:48,751 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/xpp3/xpp3_min/1.1.4c/xpp3_min-1.1.4c.pom
+2015-06-02 12:49:49,380 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-filtering/1.0-beta-2/maven-filtering-1.0-beta-2.pom
+2015-06-02 12:49:49,959 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-filtering/1.0-beta-2/maven-filtering-1.0-beta-2.pom
+2015-06-02 12:49:50,263 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-components/10/maven-shared-components-10.pom
+2015-06-02 12:49:50,844 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-components/10/maven-shared-components-10.pom
+2015-06-02 12:49:51,146 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/9/maven-parent-9.pom
+2015-06-02 12:49:52,013 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/9/maven-parent-9.pom
+2015-06-02 12:49:52,305 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/1.5.6/plexus-utils-1.5.6.pom
+2015-06-02 12:49:52,867 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/1.5.6/plexus-utils-1.5.6.pom
+2015-06-02 12:49:53,151 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/1.0.12/plexus-1.0.12.pom
+2015-06-02 12:49:53,715 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/1.0.12/plexus-1.0.12.pom
+2015-06-02 12:49:54,007 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.6/plexus-interpolation-1.6.pom
+2015-06-02 12:49:54,565 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.6/plexus-interpolation-1.6.pom
+2015-06-02 12:49:54,871 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-archiver/2.5/maven-archiver-2.5.jar
+2015-06-02 12:49:55,443 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-archiver/2.5/maven-archiver-2.5.jar
+2015-06-02 12:49:55,722 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/2.0.2/plexus-io-2.0.2.jar
+2015-06-02 12:49:56,651 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/2.0.2/plexus-io-2.0.2.jar
+2015-06-02 12:49:56,936 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/2.1/plexus-archiver-2.1.jar
+2015-06-02 12:49:58,516 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/2.1/plexus-archiver-2.1.jar
+2015-06-02 12:49:58,824 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.15/plexus-interpolation-1.15.jar
+2015-06-02 12:50:00,321 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.15/plexus-interpolation-1.15.jar
+2015-06-02 12:50:00,608 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream/1.3.1/xstream-1.3.1.jar
+2015-06-02 12:50:04,330 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream/1.3.1/xstream-1.3.1.jar
+2015-06-02 12:50:04,647 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/xpp3/xpp3_min/1.1.4c/xpp3_min-1.1.4c.jar
+2015-06-02 12:50:06,696 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/xpp3/xpp3_min/1.1.4c/xpp3_min-1.1.4c.jar
+2015-06-02 12:50:06,998 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-filtering/1.0-beta-2/maven-filtering-1.0-beta-2.jar
+2015-06-02 12:50:08,822 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-filtering/1.0-beta-2/maven-filtering-1.0-beta-2.jar
+2015-06-02 12:50:10,989 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /angularview/src/main/java
+2015-06-02 12:50:10,992 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /angularview/src/main/resources
+2015-06-02 12:50:10,997 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /angularview/src/test/java
+2015-06-02 12:50:11,073 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: restfulservice:angularview:0.0.1-SNAPSHOT @ /home/cts1/Documents/shan/angularproj/workspace/angularview/pom.xml.
+2015-06-02 12:50:19,407 [Worker-5] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 45 sec
+2015-06-02 12:50:19,961 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-install-plugin/2.4/maven-install-plugin-2.4.pom
+2015-06-02 12:50:21,066 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-install-plugin/2.4/maven-install-plugin-2.4.pom
+2015-06-02 12:50:21,555 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: restfulservice:service:0.0.1-SNAPSHOT @ /home/cts1/Documents/shan/angularproj/workspace/service/pom.xml.
+2015-06-02 12:50:22,878 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /service/src/main/java
+2015-06-02 12:50:22,879 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /service/src/main/resources
+2015-06-02 12:50:22,879 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /service/src/test/java
+2015-06-02 12:50:23,629 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: restfulservice:angularview:0.0.1-SNAPSHOT @ /home/cts1/Documents/shan/angularproj/workspace/angularview/pom.xml.
+2015-06-02 12:50:24,026 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: restfulservice:service:0.0.1-SNAPSHOT @ /home/cts1/Documents/shan/angularproj/workspace/service/pom.xml.
+2015-06-02 12:50:25,224 [Worker-9] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
+2015-06-02 12:50:26,716 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: restfulservice:service:0.0.1-SNAPSHOT @ /home/cts1/Documents/shan/angularproj/workspace/service/pom.xml.
+2015-06-02 12:50:27,874 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/sun/jersey/jersey-server/1.8/jersey-server-1.8.jar
+2015-06-02 12:50:36,003 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/sun/jersey/jersey-server/1.8/jersey-server-1.8.jar
+2015-06-02 12:50:36,331 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/asm/asm/3.1/asm-3.1.jar
+2015-06-02 12:50:39,249 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/asm/asm/3.1/asm-3.1.jar
+2015-06-02 12:50:39,560 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/sun/jersey/jersey-core/1.8/jersey-core-1.8.jar
+2015-06-02 12:50:43,645 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/sun/jersey/jersey-core/1.8/jersey-core-1.8.jar
+2015-06-02 12:50:43,954 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/sun/jersey/jersey-json/1.8/jersey-json-1.8.jar
+2015-06-02 12:50:45,714 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/sun/jersey/jersey-json/1.8/jersey-json-1.8.jar
+2015-06-02 12:50:46,020 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/jettison/jettison/1.1/jettison-1.1.jar
+2015-06-02 12:50:46,922 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/jettison/jettison/1.1/jettison-1.1.jar
+2015-06-02 12:50:47,223 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/stax/stax-api/1.0.1/stax-api-1.0.1.jar
+2015-06-02 12:50:47,824 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/stax/stax-api/1.0.1/stax-api-1.0.1.jar
+2015-06-02 12:50:48,120 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/sun/xml/bind/jaxb-impl/2.2.3-1/jaxb-impl-2.2.3-1.jar
+2015-06-02 12:50:55,871 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/sun/xml/bind/jaxb-impl/2.2.3-1/jaxb-impl-2.2.3-1.jar
+2015-06-02 12:50:56,173 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/javax/xml/bind/jaxb-api/2.2.2/jaxb-api-2.2.2.jar
+2015-06-02 12:50:57,379 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/xml/bind/jaxb-api/2.2.2/jaxb-api-2.2.2.jar
+2015-06-02 12:50:57,670 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/javax/xml/stream/stax-api/1.0-2/stax-api-1.0-2.jar
+2015-06-02 12:50:58,255 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/xml/stream/stax-api/1.0-2/stax-api-1.0-2.jar
+2015-06-02 12:50:58,548 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/javax/activation/activation/1.1/activation-1.1.jar
+2015-06-02 12:50:59,423 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/activation/activation/1.1/activation-1.1.jar
+2015-06-02 12:50:59,704 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-core-asl/1.7.1/jackson-core-asl-1.7.1.jar
+2015-06-02 12:51:01,214 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-core-asl/1.7.1/jackson-core-asl-1.7.1.jar
+2015-06-02 12:51:01,504 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-mapper-asl/1.7.1/jackson-mapper-asl-1.7.1.jar
+2015-06-02 12:51:04,670 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-mapper-asl/1.7.1/jackson-mapper-asl-1.7.1.jar
+2015-06-02 12:51:04,950 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-jaxrs/1.7.1/jackson-jaxrs-1.7.1.jar
+2015-06-02 12:51:05,518 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-jaxrs/1.7.1/jackson-jaxrs-1.7.1.jar
+2015-06-02 12:51:05,797 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-xc/1.7.1/jackson-xc-1.7.1.jar
+2015-06-02 12:51:06,402 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-xc/1.7.1/jackson-xc-1.7.1.jar
+2015-06-02 12:51:06,681 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/thetransactioncompany/cors-filter/1.3.2/cors-filter-1.3.2.jar
+2015-06-02 12:51:07,391 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/thetransactioncompany/cors-filter/1.3.2/cors-filter-1.3.2.jar
+2015-06-02 12:51:07,684 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/thetransactioncompany/java-property-utils/1.6/java-property-utils-1.6.jar
+2015-06-02 12:51:08,344 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/thetransactioncompany/java-property-utils/1.6/java-property-utils-1.6.jar
+2015-06-02 12:51:08,645 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/javax/servlet/servlet-api/2.5/servlet-api-2.5.jar
+2015-06-02 12:51:10,163 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/servlet/servlet-api/2.5/servlet-api-2.5.jar
+2015-06-02 12:51:48,638 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: restfulservice:service:0.0.1-SNAPSHOT @ /home/cts1/Documents/shan/angularproj/workspace/service/pom.xml.
+2015-06-02 12:52:28,059 [Worker-10] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/cts1/Documents/shan/angularproj/workspace/angularview
+2015-06-02 12:52:28,059 [Worker-10] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean
+2015-06-02 12:52:54,103 [Worker-7] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/cts1/Documents/shan/angularproj/workspace/service
+2015-06-02 12:52:54,103 [Worker-7] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean
+2015-06-02 12:54:14,115 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-core/3.0.5.RELEASE/spring-core-3.0.5.RELEASE.pom
+2015-06-02 12:54:14,687 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-core/3.0.5.RELEASE/spring-core-3.0.5.RELEASE.pom
+2015-06-02 12:54:15,021 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-parent/3.0.5.RELEASE/spring-parent-3.0.5.RELEASE.pom
+2015-06-02 12:54:15,101 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: restfulservice:service:0.0.1-SNAPSHOT @ /home/cts1/Documents/shan/angularproj/workspace/service/pom.xml.
+2015-06-02 12:54:15,594 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-parent/3.0.5.RELEASE/spring-parent-3.0.5.RELEASE.pom
+2015-06-02 12:54:15,912 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-asm/3.0.5.RELEASE/spring-asm-3.0.5.RELEASE.pom
+2015-06-02 12:54:16,470 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-asm/3.0.5.RELEASE/spring-asm-3.0.5.RELEASE.pom
+2015-06-02 12:54:16,915 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.pom
+2015-06-02 12:54:17,483 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.pom
+2015-06-02 12:54:17,825 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/5/commons-parent-5.pom
+2015-06-02 12:54:18,398 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/5/commons-parent-5.pom
+2015-06-02 12:54:18,712 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-web/3.0.5.RELEASE/spring-web-3.0.5.RELEASE.pom
+2015-06-02 12:54:19,276 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-web/3.0.5.RELEASE/spring-web-3.0.5.RELEASE.pom
+2015-06-02 12:54:19,593 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/aopalliance/aopalliance/1.0/aopalliance-1.0.pom
+2015-06-02 12:54:20,175 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/aopalliance/aopalliance/1.0/aopalliance-1.0.pom
+2015-06-02 12:54:20,489 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-beans/3.0.5.RELEASE/spring-beans-3.0.5.RELEASE.pom
+2015-06-02 12:54:21,055 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-beans/3.0.5.RELEASE/spring-beans-3.0.5.RELEASE.pom
+2015-06-02 12:54:21,384 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-context/3.0.5.RELEASE/spring-context-3.0.5.RELEASE.pom
+2015-06-02 12:54:21,952 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-context/3.0.5.RELEASE/spring-context-3.0.5.RELEASE.pom
+2015-06-02 12:54:22,264 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-aop/3.0.5.RELEASE/spring-aop-3.0.5.RELEASE.pom
+2015-06-02 12:54:22,829 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-aop/3.0.5.RELEASE/spring-aop-3.0.5.RELEASE.pom
+2015-06-02 12:54:23,142 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-expression/3.0.5.RELEASE/spring-expression-3.0.5.RELEASE.pom
+2015-06-02 12:54:23,707 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-expression/3.0.5.RELEASE/spring-expression-3.0.5.RELEASE.pom
+2015-06-02 12:54:24,004 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/3.0.5.RELEASE/spring-webmvc-3.0.5.RELEASE.pom
+2015-06-02 12:54:24,283 [Worker-6] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/cts1/Documents/shan/angularproj/workspace/service
+2015-06-02 12:54:24,283 [Worker-6] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean
+2015-06-02 12:54:24,593 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/3.0.5.RELEASE/spring-webmvc-3.0.5.RELEASE.pom
+2015-06-02 12:54:24,923 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-context-support/3.0.5.RELEASE/spring-context-support-3.0.5.RELEASE.pom
+2015-06-02 12:54:25,485 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-context-support/3.0.5.RELEASE/spring-context-support-3.0.5.RELEASE.pom
+2015-06-02 12:54:25,903 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-core/3.0.5.RELEASE/spring-core-3.0.5.RELEASE.jar
+2015-06-02 12:54:28,141 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-core/3.0.5.RELEASE/spring-core-3.0.5.RELEASE.jar
+2015-06-02 12:54:28,421 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-asm/3.0.5.RELEASE/spring-asm-3.0.5.RELEASE.jar
+2015-06-02 12:54:29,013 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-asm/3.0.5.RELEASE/spring-asm-3.0.5.RELEASE.jar
+2015-06-02 12:54:29,292 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar
+2015-06-02 12:54:29,888 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar
+2015-06-02 12:54:30,169 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-web/3.0.5.RELEASE/spring-web-3.0.5.RELEASE.jar
+2015-06-02 12:54:32,226 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-web/3.0.5.RELEASE/spring-web-3.0.5.RELEASE.jar
+2015-06-02 12:54:32,505 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/aopalliance/aopalliance/1.0/aopalliance-1.0.jar
+2015-06-02 12:54:33,069 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/aopalliance/aopalliance/1.0/aopalliance-1.0.jar
+2015-06-02 12:54:33,406 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-beans/3.0.5.RELEASE/spring-beans-3.0.5.RELEASE.jar
+2015-06-02 12:54:35,990 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-beans/3.0.5.RELEASE/spring-beans-3.0.5.RELEASE.jar
+2015-06-02 12:54:36,272 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-context/3.0.5.RELEASE/spring-context-3.0.5.RELEASE.jar
+2015-06-02 12:54:38,853 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-context/3.0.5.RELEASE/spring-context-3.0.5.RELEASE.jar
+2015-06-02 12:54:39,134 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-aop/3.0.5.RELEASE/spring-aop-3.0.5.RELEASE.jar
+2015-06-02 12:54:40,819 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-aop/3.0.5.RELEASE/spring-aop-3.0.5.RELEASE.jar
+2015-06-02 12:54:41,100 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/3.0.5.RELEASE/spring-webmvc-3.0.5.RELEASE.jar
+2015-06-02 12:54:42,026 [Worker-6] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/cts1/Documents/shan/angularproj/workspace/angularview
+2015-06-02 12:54:42,026 [Worker-6] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean
+2015-06-02 12:54:42,789 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/3.0.5.RELEASE/spring-webmvc-3.0.5.RELEASE.jar
+2015-06-02 12:54:43,069 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-context-support/3.0.5.RELEASE/spring-context-support-3.0.5.RELEASE.jar
+2015-06-02 12:54:45,370 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-context-support/3.0.5.RELEASE/spring-context-support-3.0.5.RELEASE.jar
+2015-06-02 12:54:45,649 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-expression/3.0.5.RELEASE/spring-expression-3.0.5.RELEASE.jar
+2015-06-02 12:54:46,776 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-expression/3.0.5.RELEASE/spring-expression-3.0.5.RELEASE.jar
+2015-06-02 13:01:30,069 [Worker-16] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/cts1/Documents/shan/angularproj/workspace/angularview
+2015-06-02 13:01:30,082 [Worker-16] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2015-06-02 13:02:25,218 [Worker-17] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/cts1/Documents/shan/angularproj/workspace/service
+2015-06-02 13:02:25,219 [Worker-17] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2015-06-02 13:12:32,098 [Worker-26] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/cts1/Documents/shan/angularproj/workspace/service
+2015-06-02 13:12:32,115 [Worker-26] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2015-06-02 13:14:11,731 [Worker-23] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/cts1/Documents/shan/angularproj/workspace/service
+2015-06-02 13:14:11,731 [Worker-23] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2015-06-02 13:14:51,435 [Worker-23] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/cts1/Documents/shan/angularproj/workspace/service
+2015-06-02 13:14:51,436 [Worker-23] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2015-06-02 14:44:25,547 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/sun/jersey/jersey-core/1.8/jersey-core-1.8-sources.jar
+2015-06-02 14:44:28,976 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/sun/jersey/jersey-core/1.8/jersey-core-1.8-sources.jar
+2015-06-02 14:44:29,211 [Worker-56] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.sun.jersey:jersey-core:1.8
+2015-06-02 15:49:46,434 [Worker-57] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/cts1/Documents/shan/angularproj/workspace/angularview
+2015-06-02 15:49:46,456 [Worker-57] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2015-06-02 15:50:12,315 [Worker-68] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/cts1/Documents/shan/angularproj/workspace/service
+2015-06-02 15:50:12,315 [Worker-68] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2015-06-02 15:54:45,973 [Worker-71] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/cts1/Documents/shan/angularproj/workspace/angularview
+2015-06-02 15:54:45,973 [Worker-71] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean
+2015-06-02 15:54:51,171 [Worker-29] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/cts1/Documents/shan/angularproj/workspace/service
+2015-06-02 15:54:51,172 [Worker-29] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean
+2015-06-02 15:55:02,436 [Worker-71] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/cts1/Documents/shan/angularproj/workspace/angularview
+2015-06-02 15:55:02,436 [Worker-71] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2015-06-02 15:55:07,190 [Worker-29] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/cts1/Documents/shan/angularproj/workspace/service
+2015-06-02 15:55:07,190 [Worker-29] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2015-06-02 16:03:11,735 [Worker-75] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 16:03:11,920 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-02 16:03:11,923 [Worker-75] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 16:03:11,924 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cts1/Documents/shan/angularproj/workspace/angularview/src/test/resources
+2015-06-02 16:03:13,407 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 16:03:13,408 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-02 16:03:13,409 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 16:03:13,410 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cts1/Documents/shan/angularproj/workspace/service/src/test/resources
+2015-06-02 16:03:20,359 [Worker-73] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/cts1/Documents/shan/angularproj/workspace/service
+2015-06-02 16:03:20,359 [Worker-73] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2015-06-02 16:03:24,947 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 16:03:24,976 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-02 16:03:24,978 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 16:03:24,978 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cts1/Documents/shan/angularproj/workspace/service/src/test/resources
+2015-06-02 16:03:30,071 [Worker-70] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/cts1/Documents/shan/angularproj/workspace/angularview
+2015-06-02 16:03:30,071 [Worker-70] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2015-06-02 16:03:34,035 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 16:03:34,036 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-02 16:03:34,038 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 16:03:34,038 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cts1/Documents/shan/angularproj/workspace/angularview/src/test/resources
+2015-06-02 16:05:14,108 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 16:05:14,110 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-02 16:05:14,112 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 16:05:14,112 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cts1/Documents/shan/angularproj/workspace/service/src/test/resources
+2015-06-02 16:05:45,780 [Worker-80] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 16:05:45,781 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-02 16:05:45,783 [Worker-80] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 16:05:45,784 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cts1/Documents/shan/angularproj/workspace/service/src/test/resources
+2015-06-02 16:06:00,862 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 16:06:00,863 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-02 16:06:00,865 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 16:06:00,866 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cts1/Documents/shan/angularproj/workspace/service/src/test/resources
+2015-06-02 16:06:20,400 [Worker-70] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/cts1/Documents/shan/angularproj/workspace/service
+2015-06-02 16:06:20,401 [Worker-70] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2015-06-02 16:08:31,350 [Worker-82] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 16:08:31,351 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-02 16:08:31,353 [Worker-82] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 16:08:31,354 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cts1/Documents/shan/angularproj/workspace/service/src/test/resources
+2015-06-02 16:08:45,025 [Worker-79] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 16:08:45,026 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-02 16:08:45,027 [Worker-79] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 16:08:45,027 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cts1/Documents/shan/angularproj/workspace/service/src/test/resources
+2015-06-02 16:09:02,260 [Worker-70] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 16:09:02,261 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-02 16:09:02,263 [Worker-70] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 16:09:02,264 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cts1/Documents/shan/angularproj/workspace/service/src/test/resources
+2015-06-02 16:09:29,790 [Worker-70] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 16:09:29,790 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-02 16:09:29,792 [Worker-70] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 16:09:29,792 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cts1/Documents/shan/angularproj/workspace/angularview/src/test/resources
+2015-06-02 16:22:07,619 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 16:22:07,620 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-02 16:22:07,622 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 16:22:07,623 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cts1/Documents/shan/angularproj/workspace/angularview/src/test/resources
+2015-06-02 16:22:19,049 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 16:22:19,050 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-02 16:22:19,052 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 16:22:19,053 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cts1/Documents/shan/angularproj/workspace/angularview/src/test/resources
+2015-06-02 16:23:01,953 [Worker-89] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 16:23:01,974 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-02 16:23:01,975 [Worker-89] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 16:23:01,976 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cts1/Documents/shan/angularproj/workspace/service/src/test/resources
+2015-06-02 16:23:04,974 [Worker-88] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 16:23:04,974 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-02 16:23:04,976 [Worker-88] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 16:23:04,976 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cts1/Documents/shan/angularproj/workspace/service/src/test/resources
+2015-06-02 16:23:15,704 [Worker-87] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 16:23:15,704 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-02 16:23:15,721 [Worker-87] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 16:23:15,725 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cts1/Documents/shan/angularproj/workspace/service/src/test/resources
+2015-06-02 16:23:31,555 [Worker-88] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 16:23:31,556 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-02 16:23:31,557 [Worker-88] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 16:23:31,558 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cts1/Documents/shan/angularproj/workspace/service/src/test/resources
+2015-06-02 16:24:01,541 [Worker-88] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/cts1/Documents/shan/angularproj/workspace/service
+2015-06-02 16:24:01,541 [Worker-88] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2015-06-02 16:25:13,835 [Worker-87] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 16:25:13,836 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-02 16:25:13,837 [Worker-87] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 16:25:13,838 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cts1/Documents/shan/angularproj/workspace/service/src/test/resources
+2015-06-02 16:26:01,242 [Worker-82] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 16:26:01,243 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-02 16:26:01,245 [Worker-82] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 16:26:01,245 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cts1/Documents/shan/angularproj/workspace/service/src/test/resources
+2015-06-02 16:26:13,833 [Worker-90] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/cts1/Documents/shan/angularproj/workspace/service
+2015-06-02 16:26:13,834 [Worker-90] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean
+2015-06-02 16:26:16,500 [Worker-88] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 16:26:16,501 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-02 16:26:16,508 [Worker-88] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 16:26:16,509 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cts1/Documents/shan/angularproj/workspace/service/src/test/resources
+2015-06-02 16:26:18,656 [Worker-90] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/cts1/Documents/shan/angularproj/workspace/service
+2015-06-02 16:26:18,656 [Worker-90] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2015-06-02 16:29:32,570 [Worker-87] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 16:29:32,571 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-02 16:29:32,573 [Worker-87] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 16:29:32,573 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cts1/Documents/shan/angularproj/workspace/service/src/test/resources
+2015-06-02 16:29:54,393 [Worker-88] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-mapper-asl/1.7.1/jackson-mapper-asl-1.7.1-sources.jar
+2015-06-02 16:29:58,013 [Worker-88] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-mapper-asl/1.7.1/jackson-mapper-asl-1.7.1-sources.jar
+2015-06-02 16:29:58,225 [Worker-88] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.codehaus.jackson:jackson-mapper-asl:1.7.1
+2015-06-02 16:29:58,669 [Worker-76] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 16:29:58,669 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-02 16:29:58,671 [Worker-76] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 16:29:58,671 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cts1/Documents/shan/angularproj/workspace/service/src/test/resources
+2015-06-02 16:32:07,461 [Worker-92] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 16:32:07,462 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-02 16:32:07,463 [Worker-92] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 16:32:07,463 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cts1/Documents/shan/angularproj/workspace/service/src/test/resources
+2015-06-02 16:32:10,061 [Worker-88] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 16:32:10,065 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-02 16:32:10,067 [Worker-88] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 16:32:10,067 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cts1/Documents/shan/angularproj/workspace/service/src/test/resources
+2015-06-02 16:32:34,926 [Worker-92] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 16:32:34,926 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-02 16:32:34,928 [Worker-92] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 16:32:34,928 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cts1/Documents/shan/angularproj/workspace/service/src/test/resources
+2015-06-02 16:32:40,945 [Worker-88] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 16:32:40,946 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-02 16:32:40,948 [Worker-88] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 16:32:40,948 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cts1/Documents/shan/angularproj/workspace/service/src/test/resources
+2015-06-02 16:32:57,106 [Worker-88] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 16:32:57,106 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-02 16:32:57,108 [Worker-88] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 16:32:57,108 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cts1/Documents/shan/angularproj/workspace/service/src/test/resources
+2015-06-02 16:33:25,559 [Worker-92] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: restfulservice:service:0.0.1-SNAPSHOT @ /home/cts1/Documents/shan/angularproj/workspace/service/pom.xml.
+2015-06-02 16:33:26,116 [Worker-92] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 16:33:26,117 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-02 16:33:26,118 [Worker-92] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 16:33:26,119 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cts1/Documents/shan/angularproj/workspace/service/src/test/resources
+2015-06-02 16:33:35,955 [Worker-95] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: restfulservice:angularview:0.0.1-SNAPSHOT @ /home/cts1/Documents/shan/angularproj/workspace/angularview/pom.xml.
+2015-06-02 16:33:36,452 [Worker-95] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 16:33:36,453 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-02 16:33:36,456 [Worker-95] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 16:33:36,457 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cts1/Documents/shan/angularproj/workspace/angularview/src/test/resources
+2015-06-02 16:33:47,588 [Worker-95] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/cts1/Documents/shan/angularproj/workspace/service
+2015-06-02 16:33:47,588 [Worker-95] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2015-06-02 17:41:52,666 [Worker-104] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 17:41:52,808 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-02 17:41:52,810 [Worker-104] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 17:41:52,810 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cts1/Documents/shan/angularproj/workspace/angularview/src/test/resources
+2015-06-02 17:41:58,703 [Worker-107] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 17:41:58,703 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-02 17:41:58,705 [Worker-107] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 17:41:58,705 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cts1/Documents/shan/angularproj/workspace/angularview/src/test/resources
+2015-06-02 17:42:42,087 [Worker-102] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 17:42:42,089 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-02 17:42:42,092 [Worker-102] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 17:42:42,092 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cts1/Documents/shan/angularproj/workspace/angularview/src/test/resources
+2015-06-02 17:43:10,523 [Worker-102] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 17:43:10,523 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-02 17:43:10,524 [Worker-102] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 17:43:10,525 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cts1/Documents/shan/angularproj/workspace/angularview/src/test/resources
+2015-06-02 17:46:42,428 [Worker-108] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 17:46:42,429 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-02 17:46:42,431 [Worker-108] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 17:46:42,431 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cts1/Documents/shan/angularproj/workspace/angularview/src/test/resources
+2015-06-02 17:46:43,492 [Worker-103] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 17:46:43,493 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-02 17:46:43,496 [Worker-103] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 17:46:43,497 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cts1/Documents/shan/angularproj/workspace/angularview/src/test/resources
+2015-06-02 17:47:11,378 [Worker-102] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 17:47:11,379 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-02 17:47:11,385 [Worker-102] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 17:47:11,387 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cts1/Documents/shan/angularproj/workspace/angularview/src/test/resources
+2015-06-02 17:47:18,940 [Worker-108] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 17:47:18,941 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-02 17:47:18,952 [Worker-108] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 17:47:18,952 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cts1/Documents/shan/angularproj/workspace/angularview/src/test/resources
+2015-06-02 17:47:41,740 [Worker-110] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 17:47:41,740 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-02 17:47:41,742 [Worker-110] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 17:47:41,742 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cts1/Documents/shan/angularproj/workspace/angularview/src/test/resources
+2015-06-02 17:48:00,737 [Worker-110] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 17:48:00,738 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-02 17:48:00,743 [Worker-110] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 17:48:00,747 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cts1/Documents/shan/angularproj/workspace/angularview/src/test/resources
+2015-06-02 17:48:47,201 [Worker-108] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 17:48:47,230 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-02 17:48:47,232 [Worker-108] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 17:48:47,233 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cts1/Documents/shan/angularproj/workspace/service/src/test/resources
+2015-06-02 17:48:56,830 [Worker-109] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 17:48:56,830 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-02 17:48:56,832 [Worker-109] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 17:48:56,832 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cts1/Documents/shan/angularproj/workspace/service/src/test/resources
+2015-06-02 17:49:01,392 [Worker-109] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 17:49:01,393 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-02 17:49:01,394 [Worker-109] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 17:49:01,395 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cts1/Documents/shan/angularproj/workspace/service/src/test/resources
+2015-06-02 17:49:10,204 [Worker-102] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 17:49:10,205 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-02 17:49:10,207 [Worker-102] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 17:49:10,207 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cts1/Documents/shan/angularproj/workspace/service/src/test/resources
+2015-06-02 17:49:19,660 [Worker-109] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 17:49:19,661 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-02 17:49:19,662 [Worker-109] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 17:49:19,663 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cts1/Documents/shan/angularproj/workspace/service/src/test/resources
+2015-06-02 17:49:25,066 [Worker-103] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 17:49:25,067 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-02 17:49:25,068 [Worker-103] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 17:49:25,069 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cts1/Documents/shan/angularproj/workspace/service/src/test/resources
+2015-06-02 17:52:23,725 [Worker-112] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 17:52:23,726 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-02 17:52:23,728 [Worker-112] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 17:52:23,728 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cts1/Documents/shan/angularproj/workspace/angularview/src/test/resources
+2015-06-02 17:52:30,298 [Worker-102] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 17:52:30,299 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-02 17:52:30,301 [Worker-102] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 17:52:30,301 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cts1/Documents/shan/angularproj/workspace/angularview/src/test/resources
+2015-06-02 17:52:33,468 [Worker-108] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 17:52:33,469 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-02 17:52:33,470 [Worker-108] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 17:52:33,471 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cts1/Documents/shan/angularproj/workspace/angularview/src/test/resources
+2015-06-02 17:52:41,504 [Worker-112] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 17:52:41,505 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-02 17:52:41,507 [Worker-112] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 17:52:41,508 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cts1/Documents/shan/angularproj/workspace/angularview/src/test/resources
+2015-06-02 17:52:52,778 [Worker-114] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 17:52:52,779 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-02 17:52:52,780 [Worker-114] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 17:52:52,780 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cts1/Documents/shan/angularproj/workspace/angularview/src/test/resources
+2015-06-02 17:53:27,233 [Worker-115] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 17:53:27,235 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-02 17:53:27,236 [Worker-115] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 17:53:27,239 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cts1/Documents/shan/angularproj/workspace/angularview/src/test/resources
+2015-06-02 17:53:53,310 [Worker-112] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 17:53:53,311 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-02 17:53:53,312 [Worker-112] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 17:53:53,335 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cts1/Documents/shan/angularproj/workspace/angularview/src/test/resources
+2015-06-02 17:54:04,735 [Worker-112] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 17:54:04,735 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-02 17:54:04,736 [Worker-112] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 17:54:04,737 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cts1/Documents/shan/angularproj/workspace/angularview/src/test/resources
+2015-06-02 17:55:07,591 [Worker-116] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 17:55:07,596 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-02 17:55:07,599 [Worker-116] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 17:55:07,600 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cts1/Documents/shan/angularproj/workspace/angularview/src/test/resources
+2015-06-02 17:57:32,897 [Worker-112] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 17:57:32,898 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-02 17:57:32,899 [Worker-112] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 17:57:32,899 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cts1/Documents/shan/angularproj/workspace/service/src/test/resources
+2015-06-02 17:58:08,009 [Worker-117] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/cts1/Documents/shan/angularproj/workspace/service
+2015-06-02 17:58:08,009 [Worker-117] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2015-06-02 17:59:02,635 [Worker-114] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/cts1/Documents/shan/angularproj/workspace/service
+2015-06-02 17:59:02,635 [Worker-114] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B mvn clean install
+2015-06-02 17:59:55,462 [Worker-114] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/cts1/Documents/shan/angularproj/workspace/service
+2015-06-02 17:59:55,462 [Worker-114] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean
+2015-06-02 18:00:04,318 [Worker-114] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/cts1/Documents/shan/angularproj/workspace/service
+2015-06-02 18:00:04,318 [Worker-114] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2015-06-02 18:02:24,145 [Worker-118] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 18:02:24,145 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-02 18:02:24,147 [Worker-118] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 18:02:24,148 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cts1/Documents/shan/angularproj/workspace/service/src/test/resources
+2015-06-02 18:03:34,817 [Worker-119] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 18:03:34,818 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-02 18:03:34,820 [Worker-119] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 18:03:34,820 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cts1/Documents/shan/angularproj/workspace/service/src/test/resources
+2015-06-02 18:03:51,549 [Worker-112] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 18:03:51,549 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-02 18:03:51,551 [Worker-112] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 18:03:51,551 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cts1/Documents/shan/angularproj/workspace/service/src/test/resources
+2015-06-02 18:04:17,947 [Worker-118] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 18:04:17,951 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-02 18:04:17,960 [Worker-118] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 18:04:17,961 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cts1/Documents/shan/angularproj/workspace/service/src/test/resources
+2015-06-02 18:04:38,144 [Worker-102] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/cts1/Documents/shan/angularproj/workspace/service
+2015-06-02 18:04:38,144 [Worker-102] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2015-06-02 18:05:20,028 [Worker-114] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 18:05:20,029 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-02 18:05:20,030 [Worker-114] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 18:05:20,030 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cts1/Documents/shan/angularproj/workspace/service/src/test/resources
+2015-06-02 18:05:34,929 [Worker-120] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/cts1/Documents/shan/angularproj/workspace/service
+2015-06-02 18:05:34,929 [Worker-120] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2015-06-02 18:05:40,463 [Worker-120] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 18:05:40,463 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-02 18:05:40,465 [Worker-120] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 18:05:40,465 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cts1/Documents/shan/angularproj/workspace/service/src/test/resources
+2015-06-02 18:05:47,182 [Worker-119] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/cts1/Documents/shan/angularproj/workspace/angularview
+2015-06-02 18:05:47,182 [Worker-119] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2015-06-02 18:05:51,690 [Worker-119] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 18:05:51,691 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-02 18:05:51,694 [Worker-119] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 18:05:51,694 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cts1/Documents/shan/angularproj/workspace/angularview/src/test/resources
+2015-06-02 18:09:04,600 [Worker-120] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 18:09:04,600 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-02 18:09:04,601 [Worker-120] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 18:09:04,602 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cts1/Documents/shan/angularproj/workspace/angularview/src/test/resources
+2015-06-02 18:09:40,093 [Worker-112] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 18:09:40,094 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-02 18:09:40,095 [Worker-112] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 18:09:40,096 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cts1/Documents/shan/angularproj/workspace/angularview/src/test/resources
+2015-06-02 18:10:19,854 [Worker-117] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 18:10:19,855 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-02 18:10:19,856 [Worker-117] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 18:10:19,858 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cts1/Documents/shan/angularproj/workspace/service/src/test/resources
+2015-06-02 18:13:04,785 [Worker-122] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 18:13:04,785 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-02 18:13:04,787 [Worker-122] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 18:13:04,787 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cts1/Documents/shan/angularproj/workspace/angularview/src/test/resources
+2015-06-02 18:15:21,941 [Worker-122] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 18:15:21,941 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-02 18:15:21,943 [Worker-122] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 18:15:21,952 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cts1/Documents/shan/angularproj/workspace/service/src/test/resources
+2015-06-02 18:19:40,798 [Worker-122] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 18:19:40,799 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-02 18:19:40,800 [Worker-122] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 18:19:40,800 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cts1/Documents/shan/angularproj/workspace/service/src/test/resources
+2015-06-02 18:20:00,033 [Worker-125] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 18:20:00,039 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-02 18:20:00,043 [Worker-125] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 18:20:00,043 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cts1/Documents/shan/angularproj/workspace/service/src/test/resources
+2015-06-02 18:25:39,956 [Worker-126] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 18:25:40,005 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-02 18:25:40,006 [Worker-126] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 18:25:40,007 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cts1/Documents/shan/angularproj/workspace/service/src/test/resources
+2015-06-02 18:26:00,414 [Worker-137] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/cts1/Documents/shan/angularproj/workspace/angularview
+2015-06-02 18:26:00,415 [Worker-137] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2015-06-02 18:26:21,856 [Worker-135] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/cts1/Documents/shan/angularproj/workspace/service
+2015-06-02 18:26:21,857 [Worker-135] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2015-06-02 18:26:33,568 [Worker-126] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 18:26:33,568 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-02 18:26:33,570 [Worker-126] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 18:26:33,570 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cts1/Documents/shan/angularproj/workspace/service/src/test/resources
+2015-06-02 18:26:41,274 [Worker-137] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 18:26:41,274 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-02 18:26:41,276 [Worker-137] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 18:26:41,276 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cts1/Documents/shan/angularproj/workspace/service/src/test/resources
+2015-06-02 18:26:49,606 [Worker-136] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 18:26:49,607 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-02 18:26:49,609 [Worker-136] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 18:26:49,640 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cts1/Documents/shan/angularproj/workspace/service/src/test/resources
+2015-06-02 18:27:05,288 [Worker-137] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 18:27:05,289 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-02 18:27:05,290 [Worker-137] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 18:27:05,291 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cts1/Documents/shan/angularproj/workspace/service/src/test/resources
+2015-06-02 18:27:13,333 [Worker-126] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 18:27:13,333 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-02 18:27:13,335 [Worker-126] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 18:27:13,335 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cts1/Documents/shan/angularproj/workspace/service/src/test/resources
+2015-06-02 18:27:19,799 [Worker-126] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/cts1/Documents/shan/angularproj/workspace/service
+2015-06-02 18:27:19,799 [Worker-126] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2015-06-02 18:27:43,567 [Worker-126] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-06-02 18:27:43,958 [Worker-126] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: restfulservice:angularview:0.0.1-SNAPSHOT @ /home/cts1/Documents/shan/angularproj/workspace/angularview/pom.xml.
+2015-06-02 18:27:43,990 [Worker-126] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: restfulservice:service:0.0.1-SNAPSHOT @ /home/cts1/Documents/shan/angularproj/workspace/service/pom.xml.
+2015-06-02 18:27:44,940 [Worker-126] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /angularview/src/main/java
+2015-06-02 18:27:44,941 [Worker-126] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /angularview/src/main/resources
+2015-06-02 18:27:44,941 [Worker-126] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /angularview/src/test/java
+2015-06-02 18:27:46,666 [Worker-126] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /service/src/main/java
+2015-06-02 18:27:46,666 [Worker-126] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /service/src/main/resources
+2015-06-02 18:27:46,666 [Worker-126] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /service/src/test/java
+2015-06-02 18:27:48,472 [Worker-126] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: restfulservice:angularview:0.0.1-SNAPSHOT @ /home/cts1/Documents/shan/angularproj/workspace/angularview/pom.xml.
+2015-06-02 18:27:48,586 [Worker-126] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for angularview
+2015-06-02 18:27:48,758 [Worker-126] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: restfulservice:service:0.0.1-SNAPSHOT @ /home/cts1/Documents/shan/angularproj/workspace/service/pom.xml.
+2015-06-02 18:27:49,115 [Worker-126] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for service
+2015-06-02 18:27:49,122 [Worker-126] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 5 sec
+2015-06-02 18:27:49,631 [Worker-131] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 18:27:49,631 [Worker-131] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-02 18:27:49,633 [Worker-131] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 18:27:49,633 [Worker-131] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cts1/Documents/shan/angularproj/workspace/angularview/src/test/resources
+2015-06-02 18:27:50,410 [Worker-139] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 18:27:50,411 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-02 18:27:50,413 [Worker-139] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 18:27:50,413 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cts1/Documents/shan/angularproj/workspace/service/src/test/resources
+2015-06-02 18:31:01,894 [Worker-135] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 18:31:01,895 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-02 18:31:01,896 [Worker-135] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 18:31:01,897 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cts1/Documents/shan/angularproj/workspace/service/src/test/resources
+2015-06-02 18:31:17,600 [Worker-126] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 18:31:17,618 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-02 18:31:17,620 [Worker-126] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 18:31:17,620 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cts1/Documents/shan/angularproj/workspace/service/src/test/resources
+2015-06-02 18:31:36,862 [Worker-136] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/cts1/Documents/shan/angularproj/workspace/service
+2015-06-02 18:31:36,862 [Worker-136] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2015-06-02 18:31:41,552 [Worker-135] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 18:31:41,552 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-02 18:31:41,554 [Worker-135] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 18:31:41,554 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cts1/Documents/shan/angularproj/workspace/service/src/test/resources
+2015-06-02 18:33:02,507 [Worker-141] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 18:33:02,508 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-02 18:33:02,510 [Worker-141] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-02 18:33:02,510 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cts1/Documents/shan/angularproj/workspace/service/src/test/resources
+2015-06-03 13:07:47,725 [Worker-188] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-03 13:07:47,784 [Worker-188] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-03 13:07:47,786 [Worker-188] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-03 13:07:47,786 [Worker-188] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cts1/Documents/shan/angularproj/workspace/service/src/test/resources
+2015-06-03 13:07:53,748 [Worker-190] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-03 13:07:53,749 [Worker-190] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-03 13:07:53,751 [Worker-190] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-03 13:07:53,751 [Worker-190] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cts1/Documents/shan/angularproj/workspace/service/src/test/resources
+2015-06-03 13:07:58,912 [Worker-190] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-03 13:07:58,913 [Worker-190] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-03 13:07:58,915 [Worker-190] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-03 13:07:58,915 [Worker-190] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cts1/Documents/shan/angularproj/workspace/service/src/test/resources
+2015-06-03 13:08:26,657 [Worker-190] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-03 13:08:26,667 [Worker-190] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-03 13:08:26,668 [Worker-190] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-03 13:08:26,685 [Worker-190] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cts1/Documents/shan/angularproj/workspace/angularview/src/test/resources
+2015-06-03 13:09:00,852 [Worker-189] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-03 13:09:00,852 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-03 13:09:00,865 [Worker-189] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-03 13:09:00,865 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cts1/Documents/shan/angularproj/workspace/angularview/src/test/resources
+2015-06-03 13:09:04,891 [Worker-191] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-03 13:09:04,892 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-03 13:09:04,893 [Worker-191] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-03 13:09:04,893 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cts1/Documents/shan/angularproj/workspace/angularview/src/test/resources
+2015-06-03 13:09:17,632 [Worker-190] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/cts1/Documents/shan/angularproj/workspace/service
+2015-06-03 13:09:17,632 [Worker-190] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2015-06-03 13:09:33,133 [Worker-183] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/cts1/Documents/shan/angularproj/workspace/angularview
+2015-06-03 13:09:33,133 [Worker-183] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2015-06-03 13:13:52,801 [Worker-188] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-03 13:13:52,808 [Worker-188] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-03 13:13:52,810 [Worker-188] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-03 13:13:52,818 [Worker-188] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cts1/Documents/shan/angularproj/workspace/angularview/src/test/resources
+2015-06-03 13:13:59,101 [Worker-188] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-03 13:13:59,103 [Worker-188] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-03 13:13:59,106 [Worker-188] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-03 13:13:59,107 [Worker-188] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cts1/Documents/shan/angularproj/workspace/angularview/src/test/resources
+2015-06-03 13:14:06,344 [Worker-194] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-03 13:14:06,345 [Worker-194] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-03 13:14:06,346 [Worker-194] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-03 13:14:06,347 [Worker-194] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cts1/Documents/shan/angularproj/workspace/angularview/src/test/resources
+2015-06-03 13:14:14,751 [Worker-193] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-03 13:14:14,751 [Worker-193] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-03 13:14:14,753 [Worker-193] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-03 13:14:14,753 [Worker-193] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cts1/Documents/shan/angularproj/workspace/angularview/src/test/resources
+2015-06-03 13:14:38,503 [Worker-191] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-03 13:14:38,504 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-03 13:14:38,505 [Worker-191] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-03 13:14:38,506 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cts1/Documents/shan/angularproj/workspace/angularview/src/test/resources
+2015-06-03 13:15:46,523 [Worker-194] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-03 13:15:46,524 [Worker-194] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-03 13:15:46,525 [Worker-194] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-03 13:15:46,526 [Worker-194] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cts1/Documents/shan/angularproj/workspace/angularview/src/test/resources
+2015-06-03 13:16:01,562 [Worker-191] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-03 13:16:01,563 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-03 13:16:01,564 [Worker-191] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-03 13:16:01,564 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cts1/Documents/shan/angularproj/workspace/angularview/src/test/resources
+2015-06-03 13:16:20,481 [Worker-191] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-03 13:16:20,483 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-03 13:16:20,495 [Worker-191] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-03 13:16:20,497 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cts1/Documents/shan/angularproj/workspace/angularview/src/test/resources
+2015-06-03 13:19:00,873 [Worker-195] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-03 13:19:00,874 [Worker-195] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-03 13:19:00,875 [Worker-195] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-03 13:19:00,876 [Worker-195] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cts1/Documents/shan/angularproj/workspace/angularview/src/test/resources
+2015-06-03 13:19:13,383 [Worker-195] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-03 13:19:13,384 [Worker-195] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-03 13:19:13,386 [Worker-195] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-03 13:19:13,387 [Worker-195] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cts1/Documents/shan/angularproj/workspace/angularview/src/test/resources
+2015-06-03 13:19:38,274 [Worker-193] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/cts1/Documents/shan/angularproj/workspace/service
+2015-06-03 13:19:38,274 [Worker-193] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2015-06-03 13:19:43,973 [Worker-197] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-03 13:19:43,974 [Worker-197] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-03 13:19:43,975 [Worker-197] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-03 13:19:43,976 [Worker-197] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cts1/Documents/shan/angularproj/workspace/service/src/test/resources
+2015-06-03 13:33:58,883 [Worker-200] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-03 13:33:58,884 [Worker-200] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-03 13:33:58,888 [Worker-200] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-03 13:33:58,889 [Worker-200] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cts1/Documents/shan/angularproj/workspace/angularview/src/test/resources
+2015-06-03 13:36:12,364 [Worker-202] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-03 13:36:12,364 [Worker-202] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-03 13:36:12,366 [Worker-202] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-03 13:36:12,367 [Worker-202] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cts1/Documents/shan/angularproj/workspace/angularview/src/test/resources
+2015-06-03 13:36:19,108 [Worker-204] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-03 13:36:19,110 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-03 13:36:19,113 [Worker-204] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-03 13:36:19,114 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cts1/Documents/shan/angularproj/workspace/angularview/src/test/resources
+2015-06-03 13:37:31,609 [Worker-189] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-03 13:37:31,609 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-03 13:37:31,611 [Worker-189] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-03 13:37:31,611 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cts1/Documents/shan/angularproj/workspace/angularview/src/test/resources
+2015-06-03 13:39:52,807 [Worker-205] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-03 13:39:52,808 [Worker-205] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-03 13:39:52,809 [Worker-205] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-03 13:39:52,810 [Worker-205] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cts1/Documents/shan/angularproj/workspace/service/src/test/resources
+2015-06-03 13:40:45,239 [Worker-189] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-03 13:40:45,240 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-03 13:40:45,241 [Worker-189] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-03 13:40:45,242 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cts1/Documents/shan/angularproj/workspace/service/src/test/resources
+2015-06-03 13:41:12,930 [Worker-204] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/cts1/Documents/shan/angularproj/workspace/service
+2015-06-03 13:41:12,930 [Worker-204] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2015-06-03 13:44:22,524 [Worker-207] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-03 13:44:22,525 [Worker-207] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-03 13:44:22,527 [Worker-207] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-03 13:44:22,527 [Worker-207] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/cts1/Documents/shan/angularproj/workspace/angularview/src/test/resources
