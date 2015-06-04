@@ -28,7 +28,7 @@
 		<p>
 			<input type="button" id="update" value="UPDATE"
 				ng-click="updateProduct()" /> <input type="button" id="updateList"
-				value="UPDATE LIST" ng-click="updateProductList()" />
+				value="UPDATE LIST" ng-click="updateProduct()" />
 		</p>
 		<!-- <p>Data from service : {{message}}</p>
 		<p>Updated products : {{product}}</p> -->

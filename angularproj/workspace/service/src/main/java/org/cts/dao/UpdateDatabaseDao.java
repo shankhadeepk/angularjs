@@ -5,7 +5,7 @@ import org.cts.sample.ProductWrapper;
 
 public interface UpdateDatabaseDao {
 	
-	public boolean addProducts();
+	public boolean addProducts(ProductWrapper prodWrapper);
 	public boolean createProduct();
 	public Product getProduct();
 	public ProductWrapper getListOfProducts();

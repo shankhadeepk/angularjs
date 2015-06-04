@@ -19,11 +19,11 @@ myModule.controller('myCtrl1',function($scope,$http,Post){
     $scope.updateProduct=function(){    	
     	var req = {
     			 method: 'POST',
-    			 url: 'http://localhost:8080/service/json/product/post/product',
+    			 url: 'http://localhost:8080/service/json/product/post/insertproduct',
     			 headers: {'Content-Type': 'application/json'},
-    			 data: {productname:'Pens',quantity:'10'}
+    			 data: $scope.items
     			}
-    			$http(req).success(function(data, status, headers, config){$scope.product=data;}
+    			$http(req).success(function(data, status, headers, config){$scope.products=data;}
     			).error(function(data, status, headers, config){alert('Failed '+data)});
     }
     $scope.updateProductList=function(){    	

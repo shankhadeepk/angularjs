@@ -9,11 +9,13 @@ import javax.ws.rs.Path;
 import javax.ws.rs.Produces;
 import javax.ws.rs.core.MediaType;
 
+import org.cts.dao.UpdateDatabaseDao;
+import org.cts.dao.UpdateDatabaseDaoImpl;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;
 
 @Path("/json/product")
-public class MovieController {
+public class ProductController {
 	
 	@GET
 	@Path("/get")
@@ -43,13 +45,17 @@ public class MovieController {
 		return prodWrap;
 	}
 	@POST
-	@Path("/post/product")
+	@Path("/post/insertproduct")
 	@Consumes(MediaType.APPLICATION_JSON)	
 	@Produces(MediaType.APPLICATION_JSON)
 	//@Produces("text/plain")
 	public ProductWrapper updateProductToDB(ProductWrapper prodWrapper)
 	{
-		return null;
+		System.out.println("In updateProductToDB");
+		UpdateDatabaseDao updateDao=new UpdateDatabaseDaoImpl();
+		updateDao.addProducts(prodWrapper);
+		
+		return prodWrapper;
 	}
 	
 
