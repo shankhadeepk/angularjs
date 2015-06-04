@@ -1,19 +1,18 @@
-<project xmlns="http://maven.apache.org/POM/4.0.0" 
-xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 
   http://maven.apache.org/maven-v4_0_0.xsd">
-  <modelVersion>4.0.0</modelVersion>
-  <groupId>restfulservice</groupId>
-  <artifactId>service</artifactId>
-  <packaging>war</packaging>
-  <version>0.0.1-SNAPSHOT</version>
-  <properties>
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>restfulservice</groupId>
+	<artifactId>service</artifactId>
+	<packaging>war</packaging>
+	<version>0.0.1-SNAPSHOT</version>
+	<properties>
 		<spring.version>3.0.5.RELEASE</spring.version>
 	</properties>
-  <name>service Maven Webapp</name>
-  <url>http://maven.apache.org</url>
-  <dependencies>
-    <!-- Jersey -->
+	<name>service Maven Webapp</name>
+	<url>http://maven.apache.org</url>
+	<dependencies>
+		<!-- Jersey -->
 		<dependency>
 			<groupId>com.sun.jersey</groupId>
 			<artifactId>jersey-server</artifactId>
@@ -53,8 +52,13 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 			<artifactId>cors-filter</artifactId>
 			<version>1.3.2</version>
 		</dependency>
-  </dependencies>
-  <build>
-    <finalName>service</finalName>
-  </build>
+		<dependency>
+			<groupId>org.mongodb</groupId>
+			<artifactId>mongo-java-driver</artifactId>
+			<version>3.0.2</version>
+		</dependency>
+	</dependencies>
+	<build>
+		<finalName>service</finalName>
+	</build>
 </project>

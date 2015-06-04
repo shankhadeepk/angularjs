@@ -47,10 +47,9 @@ public class MovieController {
 	@Consumes(MediaType.APPLICATION_JSON)	
 	@Produces(MediaType.APPLICATION_JSON)
 	//@Produces("text/plain")
-	public String updateProduct(Product product)
+	public ProductWrapper updateProductToDB(ProductWrapper prodWrapper)
 	{
-		System.out.println(product);
-		return "";
+		return null;
 	}
 	
 
