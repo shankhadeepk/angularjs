@@ -19,8 +19,11 @@ public class UpdateDatabaseDaoImpl implements UpdateDatabaseDao{
 			for(Product prod:prodWrapper.getListOfProducts())
 			{
 				Document mongoDoc=new Document();
-				mongoDoc.append("productname",prod.getProductname()).append("quantity", prod.getQuantity());			
-				coll.insertOne(mongoDoc);		
+				mongoDoc.append("Id",prod.getId());
+				mongoDoc.append("productname",prod.getProductname()).append("quantity", prod.getQuantity());
+				Document filter=new Document();
+				filter.append("Id", prod.getId());
+				coll.updateOne(filter, mongoDoc);
 			}
 			return true;
 		}
@@ -44,6 +47,26 @@ public class UpdateDatabaseDaoImpl implements UpdateDatabaseDao{
 	public ProductWrapper getListOfProducts() {
 		// TODO Auto-generated method stub
 		return null;
+	}
+	public boolean deleteProducts(ProductWrapper deletedProductList)
+	{
+		MongoDatabase mDb=MongoDbConnection.getConnection("my_test");		
+		MongoCollection<Document> coll = mDb.getCollection("Product");
+		try{
+			for(Product prod:deletedProductList.getListOfProducts())
+			{
+				Document filter=new Document();
+				filter.append("id",prod.getId());
+				coll.deleteMany(filter);
+				
+			}
+			return true;
+		}
+		catch(Exception ex)
+		{
+			ex.printStackTrace();
+		}		
+		return false;
 	}
 	
 

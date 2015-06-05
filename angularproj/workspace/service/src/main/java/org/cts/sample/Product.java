@@ -4,6 +4,7 @@ package org.cts.sample;
 
 public class Product {
 	
+	private int Id;	
 	private String productname;
 	private int quantity;
 	
@@ -28,6 +29,13 @@ public class Product {
 	}
 	public void setQuantity(int quantity) {
 		this.quantity = quantity;
+	}
+	public int getId() {
+		return Id;
+	}
+
+	public void setId(int id) {
+		Id = id;
 	}
 	@Override
 	public String toString() {

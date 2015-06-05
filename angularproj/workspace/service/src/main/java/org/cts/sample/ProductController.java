@@ -57,6 +57,30 @@ public class ProductController {
 		
 		return prodWrapper;
 	}
-	
-
+	@POST
+	@Path("/post/updateList")
+	@Consumes(MediaType.APPLICATION_JSON)	
+	@Produces(MediaType.APPLICATION_JSON)
+	//@Produces("text/plain")
+	public ProductWrapper updateProductListInDB(ProductWrapper prodWrapper)
+	{
+		System.out.println("In updateProductListInDB");
+		UpdateDatabaseDao updateDao=new UpdateDatabaseDaoImpl();
+		updateDao.addProducts(prodWrapper);
+		
+		return prodWrapper;
+	}
+	@POST
+	@Path("/post/deletelist")
+	@Consumes(MediaType.APPLICATION_JSON)	
+	@Produces(MediaType.APPLICATION_JSON)
+	//@Produces("text/plain")
+	public ProductWrapper deleteFromProductListDB(ProductWrapper prodWrapper)
+	{
+		System.out.println("In DeleteList");	
+		UpdateDatabaseDao updateDao=new UpdateDatabaseDaoImpl();
+		updateDao.deleteProducts(prodWrapper);
+		
+		return prodWrapper;
+	}
 }

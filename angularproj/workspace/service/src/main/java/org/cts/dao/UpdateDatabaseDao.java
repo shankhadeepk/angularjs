@@ -9,4 +9,5 @@ public interface UpdateDatabaseDao {
 	public boolean createProduct();
 	public Product getProduct();
 	public ProductWrapper getListOfProducts();
+	public boolean deleteProducts(ProductWrapper deletedProductList);
 }

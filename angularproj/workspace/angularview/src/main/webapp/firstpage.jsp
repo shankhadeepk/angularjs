@@ -9,10 +9,10 @@
 <body ng-app="myApp">
 	<h2>Item List</h2>
 	<div ng-controller="myCtrl1">
-		<table>
+		<table border="1" style="width:100%">
 			<tr ng-repeat="x in items.item">
 				<td>{{x.productname}}</td>
-				<td>{{x.quantity}}</td>
+				<td>{{x.quantity}}</td>				
 			</tr>
 		</table>
 		<h2>Add Item</h2>
