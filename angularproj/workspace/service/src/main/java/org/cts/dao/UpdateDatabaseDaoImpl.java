@@ -18,12 +18,16 @@ public class UpdateDatabaseDaoImpl implements UpdateDatabaseDao{
 		try{
 			for(Product prod:prodWrapper.getListOfProducts())
 			{
-				Document mongoDoc=new Document();
+				Document mongoDoc=new Document();				
 				mongoDoc.append("Id",prod.getId());
 				mongoDoc.append("productname",prod.getProductname()).append("quantity", prod.getQuantity());
 				Document filter=new Document();
 				filter.append("Id", prod.getId());
-				coll.updateOne(filter, mongoDoc);
+				if(coll.findOneAndReplace(filter,mongoDoc)==null)
+				{
+					coll.insertOne(mongoDoc);
+				}
+				
 			}
 			return true;
 		}
@@ -57,7 +61,7 @@ public class UpdateDatabaseDaoImpl implements UpdateDatabaseDao{
 			{
 				Document filter=new Document();
 				filter.append("id",prod.getId());
-				coll.deleteMany(filter);
+				coll.deleteOne(filter);
 				
 			}
 			return true;
